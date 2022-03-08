@@ -1,12 +1,14 @@
 <div>
-  <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gilberto-marques99/"><i>Gilberto Marques</i></a><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="55"></h1>
+  <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/gilberto-marques99/"><i>Gilberto Marques</i></a><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="55">seja bem-vindo ao meu Github! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></h1> 
+  
 <b>
   <i>
-  <p align="center">Estudante de Analise e Desenvolvimento de Sistemas | 5° Semestre | Faculdade de Tecnologia e Inovação <a href="https://www.df.senac.br/faculdade/"><i>Senac</i>
+  <p align="center">Cursando Analise e Desenvolvimento de Sistemas no Faculdade de Tecnologia e Inovação Senac DF.
     <img width="5" align="center" 
   </b>
  </i>
 </div>
+
 <div align="center">
   <a href="https://github.com/GilbertoMarques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoMarques&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
