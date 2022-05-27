@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/GilbertoMarques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adoption_Project&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoMarques&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoMarques&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div align="center"><br>
