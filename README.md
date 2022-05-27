@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/GilbertoMarques/Adoption_Project">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilbertoMarques/Adoption_Project&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoMarques/Adoption_Project&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/Adoption_Project">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adoption_Project&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adoption_Project&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div align="center"><br>
     <img align="center" alt="java" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
