@@ -3,7 +3,7 @@
   
 <b>
   <i>
-  <p align="center">Cursando Analise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac DF.
+  <p align="center">Graduado em Analise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac DF.
     <img width="5" align="center" 
   </b>
  </i>
